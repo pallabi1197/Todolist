@@ -1,0 +1,16 @@
+React is a fronted javascript library that is used to build interactive user interface
+Using React we can create single page application (SPA)
+JSX stands for JavaScript Syntax Extension , with the help of it we can use HTML and JS in a single file
+
+Start Now--------------
+Setting Environment for react
+Print Value/Data
+Conditional Rendering
+Event Handling
+UseState Variable
+Pass data from one to another component(props)
+Use destructuring in the props parameter
+How we can pass function using props
+How to use useRef to get any element
+useRef is a react hook using that we can tick refernce from any element
+Create To-do-list app using react js
